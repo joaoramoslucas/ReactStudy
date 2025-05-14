@@ -22,7 +22,7 @@ export function Home() {
 
             <TouchableOpacity style={s.button}>
                 <Text style={s.buttonText}>
-                    Adicionar
+                    +
                 </Text>
             </TouchableOpacity>
 
